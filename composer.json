@@ -1,11 +1,11 @@
 {
-    "name": "spatie/image-optimizer",
+    "name": "crashingberries/image-optimizer",
     "description": "Easily optimize images using PHP",
     "keywords": [
         "spatie",
         "image-optimizer"
     ],
-    "homepage": "https://github.com/spatie/image-optimizer",
+    "homepage": "https://github.com/Crashingberries/image-optimizer",
     "license": "MIT",
     "authors": [
         {
